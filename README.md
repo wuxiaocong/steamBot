@@ -5,7 +5,8 @@
 <ul>
  	<li><span style="font-family: 微软雅黑;"><strong>接受/拒绝/取消/发起交易</strong></span></li>
  	<li><span style="font-family: 微软雅黑;"><strong>支持二步验证的登录</strong></span></li>
- 	<li><span style="font-family: 微软雅黑;"><strong>获取单笔交易状态</strong><strong>- 获取steamID SessionID</strong></span></li>
+ 	<li><span style="font-family: 微软雅黑;"><strong>获取单笔交易状态</strong></span></li>
+	 <li><span style="font-family: 微软雅黑;"><strong>获取steamID SessionID</strong></span></li>
  	<li><span style="font-family: 微软雅黑;"><strong>获取玩家游戏列表</strong></span></li>
  	<li><span style="font-family: 微软雅黑;"><strong>获取API秘钥</strong></span></li>
  	<li><span style="font-family: 微软雅黑;"><strong>获取玩家库存</strong></span></li>
