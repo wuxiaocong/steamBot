@@ -101,7 +101,7 @@
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">
 </span></strong></span>
 ## 交易字符串样例
-```jsonn
+```json
 {"newversion":true,"version":1,"me":{"assets":{"appid":"游戏AppID","contextid":"2","amount":1,"assetid":"游戏饰品的ID"},"currency":[],"ready":true},"them":{"assets":[],"currency":[],"ready":false}}
 ```
 发送和取回主要取决于assets那个元素有没有值而已
