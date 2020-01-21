@@ -100,10 +100,10 @@
 </table>
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">
 </span></strong></span>
-## 交易字符串样例
-```json
+<strong><span style="font-family: 微软雅黑;"><span style="font-size: x-large;">交易字符串样例:</span></span></strong>
+<code>
 {"newversion":true,"version":1,"me":{"assets":{"appid":"游戏AppID","contextid":"2","amount":1,"assetid":"游戏饰品的ID"},"currency":[],"ready":true},"them":{"assets":[],"currency":[],"ready":false}}
-```
+</code>
 发送和取回主要取决于assets那个元素有没有值而已
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">注意事项:</span></strong></span>
 这些是使用Umarket试运营后得出的一些注意事项,请注意!
