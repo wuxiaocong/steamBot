@@ -106,6 +106,10 @@
 {"newversion":true,"version":1,"me":[{"assets":{"appid":"游戏AppID","contextid":"2","amount":1,"assetid":"游戏饰品的ID"}],"currency":[],"ready":true},"them":{"assets":[],"currency":[],"ready":false}}
 </code>
 <br>
+<span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">开发文档:</span></strong></span>
+<br>
+<a href="https://www.yuque.com/books/share/8f76ee1e-917e-4656-82d2-cebec314829c?#">https://www.yuque.com/books/share/8f76ee1e-917e-4656-82d2-cebec314829c?#</a>
+<br>
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">注意事项:</span></strong></span>
 这些是使用Umarket试运营后得出的一些注意事项,请注意!
 <ul class="litype_1" type="1">
