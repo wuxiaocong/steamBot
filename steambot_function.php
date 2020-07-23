@@ -99,7 +99,7 @@ class SteamBot {
 	 */
 	public function getgamelist($nickname)
 	{
-		$content=file_get_contents('http://steamcommunity.com/id/'.$nickname.'/inventory/');
+		$content=$this->curl('https://steamcommunity.com/id/'.$nickname.'/inventory/');
 		$content=preg_replace("/[\t\n\r]+/","",$content);
 		preg_match_all('/<option data-appid="([\S\s]*?)" value="([\S\s]*?)">([\S\s]*?)<\/option>/',$content,$rs);
 		return json_encode($rs[1]);
@@ -109,10 +109,20 @@ class SteamBot {
 	 *	获取用户库存
 	 *	@param string $steamid SteamID
 	 *	@param string $gamid 游戏的ID
-	 *	@return 库存的HTML,需要自行解析
+	 *  @param int $count 需要获取的饰品数量(默认只能获取用户前500个饰品信息)
+	 *  @param int $start_assetsid 指定特定饰品作为开始值(比如assetsid:2,则是获取从2开始之后的饰品信息)
+	 *	@return 库存的JSON,需要自行解析
 	 */
-	public function getinventory($steamid,$gameid){
-		return file_get_contents('http://steamcommunity.com/inventory/'.$steamid.'/'.$gameid.'/2');
+	public function getinventory($steamid,$gameid,$count=500,$start_assetsid=-1){
+		if($count > 500){
+			$url = 'https://steamcommunity.com/inventory/'.$steamid.'/'.$gameid.'/2?count='.$count;
+		}else{
+			$url = 'https://steamcommunity.com/inventory/'.$steamid.'/'.$gameid.'/2';
+		}
+		if($start_assetsid>0){
+			$url = $url."?start_assetsid=".$start_assetsid;
+		}
+		return $this->curl($url);
 	}
 	
 	/**
@@ -451,7 +461,7 @@ class SteamBot {
 	{
 		if($localtime) return time()+10;
 		$data = array('steamid' => 0);
-		$url = 'http://api.steampowered.com/ITwoFactorService/QueryTime/v0001';
+		$url = 'https://api.steampowered.com/ITwoFactorService/QueryTime/v0001';
 		$postString = http_build_query($data, '', '&');
 		$response = $this->curl($url,$postString);
 		$response = json_decode($response);
