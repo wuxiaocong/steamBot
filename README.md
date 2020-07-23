@@ -122,8 +122,9 @@
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">
 </span></strong></span>
 <span style="font-family: 微软雅黑;"><span style="font-size: x-large;"><strong>联系方式:</strong></span></span><span style="font-family: 微软雅黑;">
-</span><span style="font-family: 微软雅黑;">邮箱:gz7gugu@qq.com</span>
-<span style="font-family: 微软雅黑;">QQ开发交流群:1146370607</span>
+</span>
+<br/><span style="font-family: 微软雅黑;">邮箱:gz7gugu@qq.com</span><br/>
+<span style="font-family: 微软雅黑;">QQ开发交流群:1146370607</span><br/>
 <i><strong><span style="font-family: 微软雅黑;">[有问题邮箱留言,我看得见的]</span></strong></i>
 <span style="font-family: 微软雅黑;">
 </span>
