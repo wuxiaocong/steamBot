@@ -598,7 +598,6 @@ class SteamBot {
         } catch (Exception $ex) {
             return $confirmations;
 		}
-		file_put_contents("check.html",$response);
         if (strpos($response, '<div>Nothing to confirm</div>') === false) {
             $confIdRegex = '/data-confid="(\d+)"/';
             $confKeyRegex = '/data-key="(\d+)"/';
