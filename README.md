@@ -103,8 +103,14 @@
 <strong><span style="font-family: 微软雅黑;"><span style="font-size: x-large;">交易字符串样例:</span></span></strong>
 <br>
 <code>
-{"newversion":true,"version":1,"me":[{"assets":{"appid":"游戏AppID","contextid":"2","amount":1,"assetid":"游戏饰品的ID"}],"currency":[],"ready":true},"them":{"assets":[],"currency":[],"ready":false}}
+{
+"newversion":true,
+"version":1,
+"me":{"assets":[{"appid":"游戏AppID","contextid":"2","amount":1,"assetid":"游戏饰品的ID"}],"currency":[],"ready":true},
+"them":{"assets":[],"currency":[],"ready":false}
+}
 </code>
+assets里面必须是数组,而不是对象
 <br>
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">开发文档:</span></strong></span>
 <br>
