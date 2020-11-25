@@ -135,7 +135,10 @@ assets里面必须是数组,而不是对象
 <span style="font-family: 微软雅黑;">
 </span>
 
-<strong><span style="font-family: 微软雅黑;"><span style="font-size: x-large;">更新日志:</span></span></strong>
+<strong><span style="font-family: 微软雅黑;"><span style="font-size: x-large;">更新日志:</span></span></strong><br>
+<span style="font-family: 微软雅黑;">2020/11/26:</span>
+<span style="font-family: 微软雅黑;">又快要过完一年了，在这一年里面，项目的状态从开发中转入维护状态，我也没有太多精力在Steam交易上面了，所以从今日起，我暂停接手Steam交易机器人的二次开发和定制，如果有需要的话，请另寻别家吧！希望各位同仁多多见谅。日志就先写到这了，有缘再见Peace！</span>
+<br>
 <span style="font-family: 微软雅黑;">2019/06/15:</span>
 <span style="font-family: 微软雅黑;">时隔一年时间,加入了遍历确认的功能。</span>
 <span style="font-family: 微软雅黑;">Umarket也弃坑了[项目太大了,一个人无法carry,以后再考虑用框架重写]</span>
