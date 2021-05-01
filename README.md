@@ -136,6 +136,9 @@ assets里面必须是数组,而不是对象
 </span>
 
 <strong><span style="font-family: 微软雅黑;"><span style="font-size: x-large;">更新日志:</span></span></strong><br>
+<span style="font-family: 微软雅黑;">2021/05/01:</span>
+<span style="font-family: 微软雅黑;">各位劳动节快乐呀！希望大家玩的开心😄，最近作者开始准备考研了，因此维护工作也只能暂时放下了。预计明年上岸后才能继续维护，希望得到大家的理解，谢谢🙏。</span>
+<br>
 <span style="font-family: 微软雅黑;">2020/11/26:</span>
 <span style="font-family: 微软雅黑;">又快要过完一年了，在这一年里面，项目的状态从开发中转入维护状态，我也没有太多精力在Steam交易上面了，所以从今日起，我暂停接手Steam交易机器人的二次开发和定制，如果有需要的话，请另寻别家吧！希望各位同仁多多见谅。日志就先写到这了，有缘再见Peace！</span>
 <br>
