@@ -1,3 +1,4 @@
+⚠️项目停止维护，QQ群已转移，终止技术支持，大家有缘再见⚠️
 <!--markdown--><span style="font-family: 微软雅黑;"><span style="font-size: x-large;"><strong>简介:</strong></span></span>
 <span style="font-family: 微软雅黑;">目前已提供完整的函数库,各位dalao可直接通过二次开发成Bot便可投入使用,本项目严格遵守<span style="color: red;"><strong>Apache License V2</strong></span></span>
 <span style="font-family: 微软雅黑;">以下为目前已实现的API
@@ -130,7 +131,6 @@ assets里面必须是数组,而不是对象
 <span style="font-family: 微软雅黑;"><span style="font-size: x-large;"><strong>联系方式:</strong></span></span><span style="font-family: 微软雅黑;">
 </span>
 <br/><span style="font-family: 微软雅黑;">邮箱:gz7gugu@qq.com</span><br/>
-<span style="font-family: 微软雅黑;">QQ开发交流群:1146370607</span><br/>
 <i><strong><span style="font-family: 微软雅黑;">[有问题邮箱留言,我看得见的]</span></strong></i>
 <span style="font-family: 微软雅黑;">
 </span>
