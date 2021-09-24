@@ -128,14 +128,11 @@ assets里面必须是数组,而不是对象
 </ul>
 <span style="font-size: x-large;"><strong><span style="font-family: 微软雅黑;">
 </span></strong></span>
-<span style="font-family: 微软雅黑;"><span style="font-size: x-large;"><strong>联系方式:</strong></span></span><span style="font-family: 微软雅黑;">
-</span>
-<br/><span style="font-family: 微软雅黑;">邮箱:gz7gugu@qq.com</span><br/>
-<i><strong><span style="font-family: 微软雅黑;">[有问题邮箱留言,我看得见的]</span></strong></i>
-<span style="font-family: 微软雅黑;">
-</span>
 
 <strong><span style="font-family: 微软雅黑;"><span style="font-size: x-large;">更新日志:</span></span></strong><br>
+<span style="font-family: 微软雅黑;">2021/09/25:</span>
+<span style="font-family: 微软雅黑;">各位江湖有缘再见，项目终止维护，谢谢大家这么多年来的支持🙏。</span>
+<br>
 <span style="font-family: 微软雅黑;">2021/05/01:</span>
 <span style="font-family: 微软雅黑;">各位劳动节快乐呀！希望大家玩的开心😄，最近作者开始准备考研了，因此维护工作也只能暂时放下了。预计明年上岸后才能继续维护，希望得到大家的理解，谢谢🙏。</span>
 <br>
