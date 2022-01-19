@@ -1,3 +1,4 @@
+‼️由于个人原因，不接受任何SteamBot订单，包括但不限于Buff扫货机器人、自动化爬虫、商城定制化等(谢谢大家的热心支持了，但烦请不要再用邮件问我是否接单了，统一回复就是不接不能不做)‼️
 ⚠️项目停止维护，QQ群已转移，终止技术支持，大家有缘再见⚠️
 <!--markdown--><span style="font-family: 微软雅黑;"><span style="font-size: x-large;"><strong>简介:</strong></span></span>
 <span style="font-family: 微软雅黑;">目前已提供完整的函数库,各位dalao可直接通过二次开发成Bot便可投入使用,本项目严格遵守<span style="color: red;"><strong>Apache License V2</strong></span></span>
